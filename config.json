@@ -1,13 +1,13 @@
 {
-  "TOKEN": "توكن_البوت",
-  "ticketCategoryID": "ايدي_الكاتاجوري",
+  "TOKEN": "MTMwOTQ0OTQxMjg1ODIxNjUzOA.GIDopb.MXSz5rrHIBH1BOc6-YJWXYDNXBiwyadggRr1Ms",
+  "ticketCategoryID": "1298478226997514321",
   "ticketNumber": 2,
   "BACKGROUND": "صورة_الباجراوند",
   "SECTIONS": [
     {
-      "name": "اسم_القسم",
-      "roleID": "ايدي_الرتبة",
-      "image": "صورة_القسم"
+      "name": "مساعدة",
+      "roleID": "1298478629067427900",
+      "image": ""
     }
   ]
 }
